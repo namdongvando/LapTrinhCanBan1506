@@ -1,0 +1,6 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\PhuongTrinhBac1\bin\Debug\PhuongTrinhBac1.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\PhuongTrinhBac1\bin\Debug\PhuongTrinhBac1.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\PhuongTrinhBac1\bin\Debug\PhuongTrinhBac1.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\PhuongTrinhBac1\obj\Debug\PhuongTrinhBac1.pdb

@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\LapTrinhCanBan1506\bin\Debug\LapTrinhCanBan1506.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\LapTrinhCanBan1506\bin\Debug\LapTrinhCanBan1506.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\LapTrinhCanBan1506\bin\Debug\LapTrinhCanBan1506.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\LapTrinhCanBan1506\obj\Debug\LapTrinhCanBan1506.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\LapTrinhCanBan1506\obj\Debug\LapTrinhCanBan1506.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\LapTrinhCanBan1506\obj\Debug\LapTrinhCanBan1506.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\LapTrinhCanBan1506\obj\Debug\LapTrinhCanBan1506.pdb

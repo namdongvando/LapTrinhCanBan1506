@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ChanLe\bin\Debug\ChanLe.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ChanLe\bin\Debug\ChanLe.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ChanLe\bin\Debug\ChanLe.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ChanLe\obj\Debug\ChanLe.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ChanLe\obj\Debug\ChanLe.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ChanLe\obj\Debug\ChanLe.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ChanLe\obj\Debug\ChanLe.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ToanTu\bin\Debug\ToanTu.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ToanTu\bin\Debug\ToanTu.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ToanTu\bin\Debug\ToanTu.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ToanTu\obj\Debug\ToanTu.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ToanTu\obj\Debug\ToanTu.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ToanTu\obj\Debug\ToanTu.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\ToanTu\obj\Debug\ToanTu.pdb
