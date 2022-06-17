@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\NgoaiLe\bin\Debug\NgoaiLe.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\NgoaiLe\bin\Debug\NgoaiLe.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\NgoaiLe\bin\Debug\NgoaiLe.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\NgoaiLe\obj\Debug\NgoaiLe.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\NgoaiLe\obj\Debug\NgoaiLe.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\NgoaiLe\obj\Debug\NgoaiLe.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\NgoaiLe\obj\Debug\NgoaiLe.csprojAssemblyReference.cache
