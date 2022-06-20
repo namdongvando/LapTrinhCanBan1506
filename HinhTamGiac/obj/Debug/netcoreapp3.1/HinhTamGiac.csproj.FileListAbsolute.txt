@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\bin\Debug\netcoreapp3.1\HinhTamGiac.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\bin\Debug\netcoreapp3.1\HinhTamGiac.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\bin\Debug\netcoreapp3.1\HinhTamGiac.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\bin\Debug\netcoreapp3.1\HinhTamGiac.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\bin\Debug\netcoreapp3.1\HinhTamGiac.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\bin\Debug\netcoreapp3.1\HinhTamGiac.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\obj\Debug\netcoreapp3.1\HinhTamGiac.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\obj\Debug\netcoreapp3.1\HinhTamGiac.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\obj\Debug\netcoreapp3.1\HinhTamGiac.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\obj\Debug\netcoreapp3.1\HinhTamGiac.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\obj\Debug\netcoreapp3.1\HinhTamGiac.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\obj\Debug\netcoreapp3.1\HinhTamGiac.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhTamGiac\obj\Debug\netcoreapp3.1\HinhTamGiac.genruntimeconfig.cache
