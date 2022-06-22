@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SuDungHamTT/1.0.0": {
+        "runtime": {
+          "SuDungHamTT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuDungHamTT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

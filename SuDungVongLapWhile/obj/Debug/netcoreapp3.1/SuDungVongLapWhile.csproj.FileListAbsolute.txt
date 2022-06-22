@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\bin\Debug\netcoreapp3.1\SuDungVongLapWhile.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\bin\Debug\netcoreapp3.1\SuDungVongLapWhile.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\bin\Debug\netcoreapp3.1\SuDungVongLapWhile.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\bin\Debug\netcoreapp3.1\SuDungVongLapWhile.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\bin\Debug\netcoreapp3.1\SuDungVongLapWhile.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\bin\Debug\netcoreapp3.1\SuDungVongLapWhile.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\obj\Debug\netcoreapp3.1\SuDungVongLapWhile.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\obj\Debug\netcoreapp3.1\SuDungVongLapWhile.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\obj\Debug\netcoreapp3.1\SuDungVongLapWhile.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\obj\Debug\netcoreapp3.1\SuDungVongLapWhile.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\obj\Debug\netcoreapp3.1\SuDungVongLapWhile.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungVongLapWhile\obj\Debug\netcoreapp3.1\SuDungVongLapWhile.genruntimeconfig.cache
