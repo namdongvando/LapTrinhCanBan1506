@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\bin\Debug\netcoreapp3.1\SuDungLeWhile.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\bin\Debug\netcoreapp3.1\SuDungLeWhile.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\bin\Debug\netcoreapp3.1\SuDungLeWhile.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\bin\Debug\netcoreapp3.1\SuDungLeWhile.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\bin\Debug\netcoreapp3.1\SuDungLeWhile.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\bin\Debug\netcoreapp3.1\SuDungLeWhile.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\obj\Debug\netcoreapp3.1\SuDungLeWhile.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\obj\Debug\netcoreapp3.1\SuDungLeWhile.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\obj\Debug\netcoreapp3.1\SuDungLeWhile.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\obj\Debug\netcoreapp3.1\SuDungLeWhile.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\obj\Debug\netcoreapp3.1\SuDungLeWhile.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\obj\Debug\netcoreapp3.1\SuDungLeWhile.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungLeWhile\obj\Debug\netcoreapp3.1\SuDungLeWhile.genruntimeconfig.cache

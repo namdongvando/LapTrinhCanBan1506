@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SuDungLeWhile/1.0.0": {
+        "runtime": {
+          "SuDungLeWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuDungLeWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
