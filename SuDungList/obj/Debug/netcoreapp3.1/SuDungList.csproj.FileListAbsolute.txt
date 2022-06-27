@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\bin\Debug\netcoreapp3.1\SuDungList.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\bin\Debug\netcoreapp3.1\SuDungList.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\bin\Debug\netcoreapp3.1\SuDungList.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\bin\Debug\netcoreapp3.1\SuDungList.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\bin\Debug\netcoreapp3.1\SuDungList.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\bin\Debug\netcoreapp3.1\SuDungList.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\obj\Debug\netcoreapp3.1\SuDungList.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\obj\Debug\netcoreapp3.1\SuDungList.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\obj\Debug\netcoreapp3.1\SuDungList.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\obj\Debug\netcoreapp3.1\SuDungList.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\obj\Debug\netcoreapp3.1\SuDungList.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\obj\Debug\netcoreapp3.1\SuDungList.genruntimeconfig.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\SuDungList\obj\Debug\netcoreapp3.1\SuDungList.csprojAssemblyReference.cache

@@ -11,11 +11,77 @@ namespace SuDungMang
             //XuatMangRaManHinh();
             //XuatSoChanTrongMang();
             //TimGiaTriLonNhatTrongMang();
-            NhapMang();
-
+            int[] a = NhapMang();
+            // Tinh Tong Gia Tri Trong Mang
+            //int tong = TongGiaTriMang(a);
+            //Console.WriteLine("Tong: {0}",tong);
+            int[] b = SapXepMang(a);
+            int[] c = SapXepMangC2(a);
+            for (int i = 0; i < b.Length; i++)
+            {
+                Console.WriteLine(b[i]);
+            }
+            for (int i = 0; i < c.Length; i++)
+            {
+                Console.WriteLine(b[i]);
+            }
         }
 
-        private static void NhapMang()
+        private static int[] SapXepMangC2(int[] a)
+        {
+            for (int i = 0; i < a.Length; i++)
+            {
+                int viTriMin = i;
+                // tim vi trí giá trị nhỏ nhất
+                for (int j = i; j < a.Length; j++)
+                {
+                    if(a[j] < a[viTriMin])
+                    {
+                        viTriMin = j;
+                    }
+                }
+                // tim dc vi trí giá trị nhỏ nhất
+                //hoan vi
+                int tam = a[i];
+                a[i] = a[viTriMin];
+                a[viTriMin] = tam;
+            }
+            return a;
+        }
+
+        private static int[] SapXepMang(int[] a)
+        {
+            int i = 0;
+            while (i < a.Length-1)
+            {
+                if(a[i] > a[i + 1])
+                {
+                    // hoan vi
+                    int tam = a[i];
+                    a[i] = a[i + 1];
+                    a[i + 1] = tam; 
+                    i = 0;
+                }
+                else
+                {
+                    i++;
+                }
+            } 
+            return a;
+        }
+
+        private static int TongGiaTriMang(int[] a)
+        {
+            int tong = 0;
+            for (int i = 0; i < a.Length; i++)
+            {
+                tong += a[i];
+                // tong = tong +a[i];
+            }
+            return tong;
+        }
+
+        private static int[] NhapMang()
         { 
             int soPhanTu = NhapSoNguyenDuong("Nhap So Phan Tu");
             // khai bao mang
@@ -33,6 +99,7 @@ namespace SuDungMang
             {
                 Console.WriteLine(a[i]);
             }
+            return a;
         }
 
         private static int NhapSoNguyenDuong(string thongBao)

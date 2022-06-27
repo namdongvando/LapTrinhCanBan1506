@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\bin\Debug\netcoreapp3.1\DinhNghiDuLieu.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\bin\Debug\netcoreapp3.1\DinhNghiDuLieu.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\bin\Debug\netcoreapp3.1\DinhNghiDuLieu.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\bin\Debug\netcoreapp3.1\DinhNghiDuLieu.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\bin\Debug\netcoreapp3.1\DinhNghiDuLieu.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\bin\Debug\netcoreapp3.1\DinhNghiDuLieu.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\obj\Debug\netcoreapp3.1\DinhNghiDuLieu.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\obj\Debug\netcoreapp3.1\DinhNghiDuLieu.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\obj\Debug\netcoreapp3.1\DinhNghiDuLieu.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\obj\Debug\netcoreapp3.1\DinhNghiDuLieu.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\obj\Debug\netcoreapp3.1\DinhNghiDuLieu.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\DinhNghiDuLieu\obj\Debug\netcoreapp3.1\DinhNghiDuLieu.genruntimeconfig.cache
