@@ -1,0 +1,12 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\bin\Debug\netcoreapp3.1\HinhHoc.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\bin\Debug\netcoreapp3.1\HinhHoc.deps.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\bin\Debug\netcoreapp3.1\HinhHoc.runtimeconfig.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\bin\Debug\netcoreapp3.1\HinhHoc.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\bin\Debug\netcoreapp3.1\HinhHoc.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\bin\Debug\netcoreapp3.1\HinhHoc.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\obj\Debug\netcoreapp3.1\HinhHoc.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\obj\Debug\netcoreapp3.1\HinhHoc.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\obj\Debug\netcoreapp3.1\HinhHoc.AssemblyInfo.cs
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\obj\Debug\netcoreapp3.1\HinhHoc.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\obj\Debug\netcoreapp3.1\HinhHoc.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\HinhHoc\obj\Debug\netcoreapp3.1\HinhHoc.genruntimeconfig.cache
