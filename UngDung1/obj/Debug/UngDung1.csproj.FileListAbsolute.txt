@@ -14,3 +14,10 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.exe.man
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\UngDung1.application
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.exe.manifest
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.application
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormPTb2.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormDangNhap.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormNhanVien.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Data\NhanVien.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.CopyComplete

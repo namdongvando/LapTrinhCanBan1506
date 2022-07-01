@@ -23,7 +23,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -61,6 +61,9 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -80,11 +83,29 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDangNhap.Designer.cs">
+      <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhanVien.Designer.cs">
+      <DependentUpon>FormNhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPTB1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormPTB1.Designer.cs">
       <DependentUpon>FormPTB1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPTb2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPTb2.Designer.cs">
+      <DependentUpon>FormPTb2.cs</DependentUpon>
     </Compile>
     <Compile Include="FormTinhTong.cs">
       <SubType>Form</SubType>
@@ -92,13 +113,24 @@
     <Compile Include="FormTinhTong.Designer.cs">
       <DependentUpon>FormTinhTong.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\NhanVien.cs" />
+    <Compile Include="Model\PTB2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormDangNhap.resx">
+      <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhanVien.resx">
+      <DependentUpon>FormNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormPTB1.resx">
       <DependentUpon>FormPTB1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPTb2.resx">
+      <DependentUpon>FormPTb2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormTinhTong.resx">
       <DependentUpon>FormTinhTong.cs</DependentUpon>
@@ -112,6 +144,10 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Data\NhanVien.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

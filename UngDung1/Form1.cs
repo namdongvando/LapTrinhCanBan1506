@@ -12,6 +12,7 @@ namespace UngDung1
 {
     public partial class Form1 : Form
     {
+        private static bool isLogin = false;
         public Form1()
         {
             InitializeComponent();
@@ -24,6 +25,9 @@ namespace UngDung1
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
+            if (isLogin == false)
+                return;
+
             // thông báo có đóng form khong ?
             var result = MessageBox.Show(
                 "Bạn có muốn Thoát Không?",
@@ -51,6 +55,29 @@ namespace UngDung1
         private void button1_Click_1(object sender, EventArgs e)
         {
             Form ftinhTong = new FormPTB1();
+            ftinhTong.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form ftinhTong = new FormPTb2();
+            ftinhTong.ShowDialog();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Form fLogin = new FormDangNhap();
+           var result = fLogin.ShowDialog();
+            if(result != DialogResult.OK)
+            {
+                Close();
+            }
+            isLogin = true;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form ftinhTong = new FormNhanVien();
             ftinhTong.ShowDialog();
         }
     }
