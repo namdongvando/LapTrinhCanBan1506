@@ -26,5 +26,46 @@ namespace UngDung1
             dataGridView1.DataSource = nv.GetNhanVien().ToList();
 
         }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            Form fNhanVien = new FormThemNhanVien();
+            var result = fNhanVien.ShowDialog();
+            if(result == DialogResult.OK)
+            {
+                // thêm nhan vien thành công
+                // tài lại danh sách 
+                NhanVien nv = new NhanVien();
+                dataGridView1.DataSource = 
+                    nv.GetNhanVien().ToList();
+            }
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            string TaiKhoan =
+                dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();
+
+            string MatKhau =
+                dataGridView1.Rows[e.RowIndex].Cells[1].Value.ToString();
+            string HoTen =
+                dataGridView1.Rows[e.RowIndex].Cells[2].Value.ToString();
+
+            NhanVien.SuaNhanVien = new NhanVien()
+            {
+                Username = TaiKhoan,
+                Password = MatKhau,
+                FullName = HoTen
+            };
+            Form fSuaNhanVien = new FormSuaNhanVien();
+
+            var result = fSuaNhanVien.ShowDialog();
+            if (result == DialogResult.OK)
+            {
+                // cập nhật danh sách nhan vien
+                NhanVien nv = new NhanVien();
+                dataGridView1.DataSource = nv.GetNhanVien().ToList();
+            }
+        }
     }
 }

@@ -1,17 +1,1 @@
-﻿[
-  {
-    "Username": "teonguyen",
-    "Password": "123456",
-    "FullName": "Nguyễn Van Teo"
-  },
-  {
-    "Username": "admin",
-    "Password": "123456",
-    "FullName": "Quản Trị"
-  },
-  {
-    "Username": "tinv",
-    "Password": "123456",
-    "FullName": "Quản Trị"
-  } 
-]
+[{"Username":"teonguyen","Password":"123456","FullName":"Nguyễn Van Teo"},{"Username":"admin","Password":"123456","FullName":"Quản Trị"},{"Username":"tinv","Password":"123456","FullName":"Quản Trị"},{"Username":"aaasdas","Password":"123456","FullName":"asdasdasd"},{"Username":"asdas","Password":"asdasdas","FullName":"asdasdas"}]

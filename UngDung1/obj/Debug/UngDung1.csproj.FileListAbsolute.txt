@@ -21,3 +21,5 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Data\NhanVien.js
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Newtonsoft.Json.dll
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Newtonsoft.Json.xml
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.CopyComplete
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormThemNhanVien.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormSuaNhanVien.resources

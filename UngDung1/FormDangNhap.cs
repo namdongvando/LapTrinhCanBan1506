@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using UngDung1.Model;
 
 namespace UngDung1
 {
@@ -21,8 +22,11 @@ namespace UngDung1
         {
             // admin
             // 123456
-            if(txtTaiKhoan.Text == "admin" 
-                && txtMatKhau.Text == "123456")
+            NhanVien nv = new NhanVien();
+            //if (txtTaiKhoan.Text == "admin"
+            //    && txtMatKhau.Text == "123456")
+
+                if (nv.TimNhanVienTheoTaiKhoanMatKhau(txtMatKhau.Text,txtTaiKhoan.Text)!=null)
             {
                 // đã đúng tài khoản mật khẩu
                 DialogResult = DialogResult.OK;
