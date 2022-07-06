@@ -23,3 +23,7 @@ C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Newtonsoft.Json.
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.csproj.CopyComplete
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormThemNhanVien.resources
 C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormSuaNhanVien.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\bin\Debug\Data\HangHoa.json
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormHangHoa.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormThemHangHoa.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\UngDung1\obj\Debug\UngDung1.FormSuaHangHoa.resources

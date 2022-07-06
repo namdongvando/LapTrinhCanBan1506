@@ -80,5 +80,11 @@ namespace UngDung1
             Form ftinhTong = new FormNhanVien();
             ftinhTong.ShowDialog();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form ftinhTong = new FormHangHoa();
+            ftinhTong.ShowDialog();
+        }
     }
 }

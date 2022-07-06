@@ -89,6 +89,12 @@
     <Compile Include="FormDangNhap.Designer.cs">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHangHoa.Designer.cs">
+      <DependentUpon>FormHangHoa.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,11 +113,23 @@
     <Compile Include="FormPTb2.Designer.cs">
       <DependentUpon>FormPTb2.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormSuaHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSuaHangHoa.Designer.cs">
+      <DependentUpon>FormSuaHangHoa.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormSuaNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormSuaNhanVien.Designer.cs">
       <DependentUpon>FormSuaNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThemHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThemHangHoa.Designer.cs">
+      <DependentUpon>FormThemHangHoa.cs</DependentUpon>
     </Compile>
     <Compile Include="FormThemNhanVien.cs">
       <SubType>Form</SubType>
@@ -125,6 +143,7 @@
     <Compile Include="FormTinhTong.Designer.cs">
       <DependentUpon>FormTinhTong.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\HangHoa.cs" />
     <Compile Include="Model\NhanVien.cs" />
     <Compile Include="Model\PTB2.cs" />
     <Compile Include="Program.cs" />
@@ -135,6 +154,9 @@
     <EmbeddedResource Include="FormDangNhap.resx">
       <DependentUpon>FormDangNhap.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormHangHoa.resx">
+      <DependentUpon>FormHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormNhanVien.resx">
       <DependentUpon>FormNhanVien.cs</DependentUpon>
     </EmbeddedResource>
@@ -144,8 +166,14 @@
     <EmbeddedResource Include="FormPTb2.resx">
       <DependentUpon>FormPTb2.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormSuaHangHoa.resx">
+      <DependentUpon>FormSuaHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormSuaNhanVien.resx">
       <DependentUpon>FormSuaNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThemHangHoa.resx">
+      <DependentUpon>FormThemHangHoa.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormThemNhanVien.resx">
       <DependentUpon>FormThemNhanVien.cs</DependentUpon>
@@ -162,6 +190,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Data\HangHoa.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="Data\NhanVien.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
