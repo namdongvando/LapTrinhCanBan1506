@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuDungList", "SuDungList\Su
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinhNghiDuLieu", "DinhNghiDuLieu\DinhNghiDuLieu.csproj", "{A821AD47-4820-46E6-9B16-B006BE426500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HinhHoc", "HinhHoc\HinhHoc.csproj", "{91E5944B-B4B6-4F89-BB3F-0DE732889545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HinhHoc", "HinhHoc\HinhHoc.csproj", "{91E5944B-B4B6-4F89-BB3F-0DE732889545}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UngDung1", "UngDung1\UngDung1.csproj", "{83ABA50F-F593-4BDC-A80C-8FFC6DC04102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppKetNoiDatabase", "AppKetNoiDatabase\AppKetNoiDatabase.csproj", "{B6B64AE0-35C0-4299-BE9E-572E7F9677B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{83ABA50F-F593-4BDC-A80C-8FFC6DC04102}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83ABA50F-F593-4BDC-A80C-8FFC6DC04102}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83ABA50F-F593-4BDC-A80C-8FFC6DC04102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B64AE0-35C0-4299-BE9E-572E7F9677B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B64AE0-35C0-4299-BE9E-572E7F9677B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B64AE0-35C0-4299-BE9E-572E7F9677B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B64AE0-35C0-4299-BE9E-572E7F9677B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

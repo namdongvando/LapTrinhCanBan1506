@@ -1,0 +1,14 @@
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\bin\Debug\BanHang.mdf
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\bin\Debug\BanHang_log.ldf
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\bin\Debug\AppKetNoiDatabase.exe.config
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\bin\Debug\AppKetNoiDatabase.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\bin\Debug\AppKetNoiDatabase.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\obj\Debug\AppKetNoiDatabase.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\obj\Debug\AppKetNoiDatabase.Form1.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\obj\Debug\AppKetNoiDatabase.Properties.Resources.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\obj\Debug\AppKetNoiDatabase.csproj.GenerateResource.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\obj\Debug\AppKetNoiDatabase.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\obj\Debug\AppKetNoiDatabase.exe
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\obj\Debug\AppKetNoiDatabase.pdb
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\obj\Debug\AppKetNoiDatabase.FormDanhMuc.resources
+C:\Users\NN\Desktop\Share\LapTrinhCanBan1506\AppKetNoiDatabase\obj\Debug\AppKetNoiDatabase.FormProduct.resources
