@@ -52,6 +52,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(797, 381);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // menuStrip1
             // 
@@ -66,8 +67,9 @@
             // thêmMớiToolStripMenuItem
             // 
             this.thêmMớiToolStripMenuItem.Name = "thêmMớiToolStripMenuItem";
-            this.thêmMớiToolStripMenuItem.Size = new System.Drawing.Size(74, 20);
+            this.thêmMớiToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
             this.thêmMớiToolStripMenuItem.Text = "Thêm Mới";
+            this.thêmMớiToolStripMenuItem.Click += new System.EventHandler(this.thêmMớiToolStripMenuItem_Click);
             // 
             // textBox1
             // 

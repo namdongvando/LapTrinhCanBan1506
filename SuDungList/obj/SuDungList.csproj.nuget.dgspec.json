@@ -1,31 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungList\\SuDungList.csproj": {}
+    "D:\\001AppC#\\LapTrinhCanBan1506\\SuDungList\\SuDungList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungList\\SuDungList.csproj": {
+    "D:\\001AppC#\\LapTrinhCanBan1506\\SuDungList\\SuDungList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungList\\SuDungList.csproj",
+        "projectUniqueName": "D:\\001AppC#\\LapTrinhCanBan1506\\SuDungList\\SuDungList.csproj",
         "projectName": "SuDungList",
-        "projectPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungList\\SuDungList.csproj",
-        "packagesPath": "C:\\Users\\NN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NN\\Desktop\\Share\\LapTrinhCanBan1506\\SuDungList\\obj\\",
+        "projectPath": "D:\\001AppC#\\LapTrinhCanBan1506\\SuDungList\\SuDungList.csproj",
+        "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+        "outputPath": "D:\\001AppC#\\LapTrinhCanBan1506\\SuDungList\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\NN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +44,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
