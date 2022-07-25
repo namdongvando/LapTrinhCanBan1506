@@ -1,0 +1,67 @@
+body {
+    min-height: 5000px;
+}
+
+.menu {
+    width: 100%;
+    /* vị trí */
+    position: fixed;
+    /*  */
+    left: 0;
+    top: 0;
+}
+
+.menu ul {
+    /* khoang dệm giữa hai element */
+    margin: 0;
+    /* khoảng dệm giưa viền và nội dung */
+    padding: 0;
+    /* bỏ dấu chấm mặc định */
+    list-style-type: none;
+    /* hiển thị trên cung 1 dòng */
+    display: flex;
+}
+
+.menu ul li {
+    width: 25%;
+    /* căn nội dung ở giữa */
+    text-align: center;
+}
+
+/* //khi đưa chuột vào khu vực thẻ a */
+.menu ul li a:hover {
+    background-color: goldenrod;
+    color: black;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    background-color: navy;
+    display: block;
+    /* từ viền đến nội dung */
+    padding: 10px;
+}
+
+.menu ul li {
+    position: relative;
+}
+
+.menu ul li:hover ul {
+    display: block;
+}
+
+/* ul menu cấp 2 */
+.menu ul li ul {
+    min-width: 250px;
+    /* display: block; */
+    position: absolute;
+    top: 100%;
+    display: none;
+}
+
+/* // li của menu cấp 2 */
+.menu ul li ul li {
+    width: 100%;
+    text-align: left;
+}

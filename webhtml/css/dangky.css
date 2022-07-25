@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /* hình nền */
+    background-image: url("/banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.dangky {
+    width: 400px;
+    /* căn giữa */
+    margin: auto;
+    /* màu nền có độ trong xuất */
+    background-color: #fff9;
+    /* đổ bóng */
+    box-shadow: 0 0 3px #aaa;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.dangky table tr td:first-child {
+    /* căn nội sang phải */
+    text-align: right;
+}
+
+.dangky table {
+    width: 100%;
+}
+
+.dangky {
+    padding: 10px;
+}
+
+.dangky table tr td input:focus {
+    border: 1px solid green;
+}
+
+.dangky table tr td input {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid green;
+}
+
+.btn-dangky {
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1em;
+}

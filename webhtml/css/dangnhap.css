@@ -1,0 +1,49 @@
+.title-dangnhap {
+    text-align: center;
+}
+
+.dangnhap input[type="text"],
+.dangnhap input[type="password"] {
+    width: 100%;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dangnhap label {
+    color: #000;
+}
+
+
+
+.dangnhap .btn {
+    padding: 6px;
+    border-radius: 4px;
+    font-size: 16px;
+    text-transform: capitalize;
+    background: navy;
+    color: #fff;
+    border: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("/banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.dangnhap {
+    width: 300px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 0 0 3px #aaa;
+    background-color: #fff9;
+}

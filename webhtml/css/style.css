@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    background-color: navy;
+    color: #fff;
+}
+
+.main {
+    background-color: gold;
+    color: #000;
+}
+
+.main.do {
+    background-color: #f00;
+}
+
+#main {
+    background-color: #f0f;
+}

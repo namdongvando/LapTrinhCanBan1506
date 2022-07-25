@@ -8,5 +8,6 @@ namespace AppKetNoiDatabase
 {
     class BgData
     {
+        public static Product ProductEdit { get; internal set; }
     }
 }

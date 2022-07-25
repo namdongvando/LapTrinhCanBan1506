@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="">
+      <label>Họ và Tên </label>
+      <input type="text" />
+      <br />
+      <label>Tài khoản </label>
+      <input type="text" />
+      <br />
+      <label>Mật khẩu </label>
+      <input type="password" />
+      <br />
+      <label>Ngày sinh </label>
+      <input type="date" />
+      <br />
+      <label>Ngày + Giờ </label>
+      <input type="datetime-local" />
+      <br />
+      <label>Tỉnh Thành </label>
+      <select>
+        <option value="1">Hồ chí minh</option>
+        <option value="2">Hà nội</option>
+      </select>
+      <fieldset>
+        <legend>Sở thích</legend>
+        <label><input type="checkbox" name="sothich" /> đá banh </label>
+        <label><input type="checkbox" name="sothich" /> bóng rổ </label>
+        <label><input type="checkbox" name="sothich" /> cầu Lông </label>
+      </fieldset>
+      <fieldset>
+        <legend>Giới tính</legend>
+        <label><input type="radio" name="GioiTinh" value="1" />Nam</label>
+        <label><input type="radio" name="GioiTinh" value="0" />Nữ</label>
+        <label><input type="radio" name="GioiTinh" value="2" />Khác</label>
+      </fieldset>
+      <label>
+        Chọn file
+        <input type="file" />
+      </label>
+      <fieldset>
+        <legend>SĐT</legend>
+        <input type="tel" />
+      </fieldset>
+      <fieldset>
+        <legend>Email</legend>
+        <input type="email" />
+      </fieldset>
+      <fieldset>
+        <legend>Thuộc tinh của thẻ input</legend>
+
+        <label>required: bắt buộc nhập </label>
+        <input type="text" required title="bắt buộc nhập" />
+        <br />
+        <label>autofocus: tự động chọn </label>
+        <input type="text" autofocus />
+        <br />
+        <label>readonly: Chỉ đọc và không cho sưa </label>
+        <input type="text" readonly value="abc" />
+        <br />
+        <label>value: giá trị mặc định </label>
+        <input type="text" value="value" />
+        <br />
+        <label>disabled: vô hiệu hóa </label>
+        <input type="text" disabled value="value" />
+        <br />
+        <label>autocomplete: tự động hoàn thành theo gợi ý </label>
+        <input type="text" autocomplete="on" />
+        <br />
+        <label>pattern: biểu thức chính quy </label>
+        <input type="text" pattern="[0-9]+" title="Chỉ nhập số" />
+      </fieldset>
+      <fieldset>
+        <legend>Nhập văn bản</legend>
+        <textarea placeholder="Nhập nhiều dòng" cols="100" rows="10"></textarea>
+      </fieldset>
+      <button>Gửi</button>
+    </form>
+  </body>
+</html>
